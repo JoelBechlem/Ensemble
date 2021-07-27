@@ -1,0 +1,23 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Encode Sans SC', sans-serif;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    font-size: large;
+}
+
+.jumbotron {
+    background-image: linear-gradient(to right, #000000, #000000, #000000c7);
+}
+
+.reserveModal {
+    background-color: black;
+}
